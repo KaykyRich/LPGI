@@ -1,0 +1,45 @@
+Paciente: Kayky
+Médico: John
+Data: 10/10/2021
+Hora: 15:41:00
+Digite o nome do paciente: 
+Lucas
+Digite o nome do médico: 
+Jean
+Digite o dia: 
+10
+Digite o mês: 
+12
+Digite o ano: 
+2022
+Digite a hora: 
+14
+Digite o minuto: 
+30
+Digite o segundo: 
+00
+Paciente: Lucas
+Médico: Jean
+Data: 10/12/2022
+Hora: 14:30:00
+Digite o dia: 
+22
+Digite o mês: 
+8
+Digite o ano: 
+2022
+Digite a hora: 
+22
+Digite o minuto: 
+00
+Digite o segundo: 
+50
+Digite o nome do paciente: 
+Denis
+Digite o nome do médico: 
+Matheus
+Paciente: Denis
+Médico: Matheus
+Data: 22/08/2022
+Hora: 22:00:50
+Quantidade de consultas: 2
